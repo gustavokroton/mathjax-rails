@@ -1,3 +1,12 @@
+# Install this fork:
+Add to Gemfile:
+
+`gem 'mathjax-rails', '2.6.1-olivervbk', git: 'https://github.com/olivervbk/mathjax-rails.git', tag: 'v2.6.1.pre.olivervbk'`
+
+and run:
+
+`bundle install`
+
 # MathJax-Rails
 
 We are living in an age where displaying math on web pages will never be hard - thanks to the great work of [MathJax](https://github.com/mathjax/MathJax). 
